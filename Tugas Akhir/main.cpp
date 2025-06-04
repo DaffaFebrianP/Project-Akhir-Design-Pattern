@@ -72,7 +72,8 @@ int main() {
     const int screenWidth = 800;
     const int screenHeight = 600;
 
-    InitWindow(screenWidth, screenHeight, "Typing Shark - Raylib Edition");
+    // Ganti judul jendela di sini
+    InitWindow(screenWidth, screenHeight, "Destroy the Meteor");
     SetTargetFPS(60);
 
     // Load assets
